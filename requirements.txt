@@ -1,0 +1,6 @@
+face==20.1.1
+numpy==1.23.3
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+Pillow==9.2.0
+pysondb==1.6.7
